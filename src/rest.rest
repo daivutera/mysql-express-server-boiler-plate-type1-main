@@ -1,0 +1,25 @@
+
+http://localhost:3000/posts
+###
+http://localhost:3000/postsCat
+###
+POST http://localhost:3000/post
+Content-Type: application/json
+
+{
+"title": "js post2",
+"body": "post 2 about js",
+"category_id":2
+}
+###
+POST http://localhost:3000/comment
+Content-Type: application/json
+
+{
+"author": "Elizabeth Js",
+"body": "comment 2 about situation",
+"post_id":2
+}
+###
+http://localhost:3000/posts/2
+###

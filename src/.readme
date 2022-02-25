@@ -1,0 +1,6 @@
+[Yesterday 4:59 PM] Marius Kuzminskas
+    // mini uzduotis, susikurti 
+// GET /posts-with-cat-date
+// gauti posto id, title, cat name, ir kada sukurta kategorija
+​[Yesterday 5:01 PM] Marius Kuzminskas
+    // sukurti get/post/delete categoriju routus
